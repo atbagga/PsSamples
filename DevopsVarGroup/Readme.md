@@ -1,3 +1,11 @@
+# Pre-requisite
+
+Azure CLI with Azure-Devops extension installed. 
+
+Documentation links here -
+1. Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) 
+2. Install [Azure-DevOps extension](https://docs.microsoft.com/en-us/azure/devops/cli/get-started?view=azure-devops)
+
 # Use
 
 This script can be used to programatically link variable groups to azure pipelines using Azure Devops CLI. 
